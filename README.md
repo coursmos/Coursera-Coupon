@@ -1,14 +1,14 @@
 # Coursera Coupon & Discount Code (June 2025) - 40% OFF Deals
 
-Coursera coupon codes are live, with savings of up to 40% on top courses and certificates from Google, Meta, and more.
+Coursera coupon codes are now available, offering up to 40% off on popular courses and certificates from Google, Meta, and other top providers.
 
-In addition to this, you can also try Coursera Plus' free trial for 7 days (no credit card needed) and get Google’s AI Essentials course at no cost.
+You can also start a 7-day Coursera Plus free trial without credit card, and get Google’s AI Essentials course completely free.
 
-To claim the 40% discount, no Coursera promo code is required. Scroll down to grab these limited-time offers before they end.
+No promo code is needed to claim these deals. Just scroll down to explore all the active offers before they expire.
 
-## Active Coursera Coupon & Discount Code (June 2025)
+## Available Coursera Coupon & Discount Code (June 2025)
 
-Get access to premium courses and certifications for a fraction of the original price. These are the best Coursera discounts available this month:
+Scroll down and claim the latest active Coursera Plus Discount and Coupon Code:
 
 ### Coursera Plus – 40% OFF
 
@@ -61,12 +61,14 @@ All offers expire ** 31, 2025**. Discounts are applied automatically; no coupon 
 
 Claiming your Coursera discount is quick and easy. Just follow these simple steps to unlock up to **40% OFF**:
 
-### Step 1: Visit the link and click on “SAVE NOW”
+### Step 1: Click the “Claim Offer” Button
 
-Use the verified links on this page to access the official Coursera offer page.  
-➡️ The discount will be automatically applied; no need to enter a code.
+Visit Coursera using the verified deal link to activate your discount.
 
-![Click On - SAVE NOW](https://github.com/coursmos/Coursera-Coupon/blob/main/Img/Click%20On%20-%20SAVE%20NOW.png)
+<div align="center">
+    <a href="" target="_blank"><img src="https://github.com/coursmos/Coursera-Coupon/blob/main/Img/Get%2040%25%20Off%20Coursera%20Plus%20on%20Annual%20Plan.png" alt="Coursera Plus - 40% OFF"/></a>
+</div><be>
+
 
 ### Step 2: Sign Up or Log In
 
@@ -77,7 +79,7 @@ Use the verified links on this page to access the official Coursera offer page.
 
 ![Coursera Coupon SIGN UP](https://github.com/coursmos/Coursera-Coupon/blob/main/Img/Coursera%20Coupon%20SIGN%20UP.png)
 
-### Step 3: Confirm the Discount
+### Step 3: Confirm Your Discount
 
 Before checking out, verify that the discounted price is applied:
 
@@ -88,7 +90,7 @@ Before checking out, verify that the discounted price is applied:
 
 ![Confirm the discount](https://github.com/coursmos/Coursera-Coupon/blob/main/Img/Confirm%20the%20disocunt.png)
 
-### Step 4: Proceed to Payment
+### Step 4: Confirm Your Payment
 
 Pay securely and start learning right away with full savings activated.
 
@@ -111,9 +113,9 @@ All prices are listed and reflect the current Corusera discounts available as of
   
 </div>
 
-## Is Coursera Free Trial available?
+## Is Coursera Plus Free Trial available?
 
-7-day **Coursera Free Trial** offer by Coursera for new users subscribing to Coursera Plus (monthly plan). This trial includes:
+7-day **Coursera Plus Free Trial** offer by Coursera for new users subscribing to Coursera Plus (monthly plan). This trial includes:
 
 *   Full access to all 7,000+ courses  
       
@@ -158,8 +160,19 @@ While some Coursera Plus Discounts 2025 are ongoing, the **best seasonal deals**
       
     
 > [!important]
-> ### Pro Tip:
 > Combine seasonal deals with Coursera's auto-applied discounts for maximum value.
+
+
+## What You Get with Coursera Plus
+
+* Unlimited access to 7,000+ courses & certifications
+
+* Learn from Google, IBM, Meta, Stanford, Yale
+
+* Certificates for jobs in tech, business, and data
+
+* Flexibility to learn at your own pace
+
 
 ## Who Should Use These Coursera Discount Codes?
 
@@ -237,5 +250,11 @@ Coursera offers a 14-day money-back guarantee for Coursera Plus annual subscript
 ### Is there a cheaper way to access Coursera?
 
 The $300/year Coursera Plus plan is the most cost-effective if you plan to take multiple courses. Combine this with flash sales, browser popups, and referral deals for even bigger savings.
+
+***
+
+### Is Coursera Free Trial Available Now?
+
+New users get a 7-day Coursera free trial with full access to all courses and certificates, no upfront payment needed.
 
 ***
