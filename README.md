@@ -1,4 +1,4 @@
-# Coursera Coupon & Discount Code (June 2025) - 40% OFF Deals
+# Coursera Coupon Code (2025)- 40% Discount Exclusive ($309)
 
 Coursera coupon codes are now available, offering up to 40% off on popular courses and certificates from Google, Meta, and other top providers.
 
