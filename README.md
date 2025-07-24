@@ -1,4 +1,4 @@
-# Coursera Coupon & Discount Code [July 2024]: 40% OFF ($240 Deal)
+# Coursera Coupon & Discount Code [July 2025]: 40% OFF ($240 Deal)
 
 The **Coursera Summer Discount** is LIVE with **40% OFF** Coursera Plus Annual, pay just $240 instead of $399, and get full access to 10,000+ courses, certificates, and programs from top names like Google and Microsoft.
 
